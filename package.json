@@ -1,6 +1,6 @@
 {
   "name": "@buckmint/buckmint-connector",
-  "version": "1.4.4",
+  "version": "1.0.0",
   "description": "A NodeJS Connector for the Buckmint API",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
